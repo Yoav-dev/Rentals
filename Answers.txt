@@ -1,0 +1,4 @@
+1.	Several options for servers frameworks are:
+	a.	javax.servlet package - with base Servlet interface
+	b.	spring framework - with @RestController annotation
+2.	I chose to use spring framework - because it has become the standard, and uses annotations rather than xml conf (in javax.servlet package) - which is much more readable.
